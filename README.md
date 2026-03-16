@@ -1,2 +1,1 @@
-# tales
-Siyayitch Stories
+#Tales of the Siyayitch
